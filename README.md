@@ -6,7 +6,7 @@
 =
 # 💻 Tela do projeto
 <p align="center">
-<img src="IMG/foto-projeto.jpg" width="300px" height="300px"/>
+<img src="IMG/foto-projeto.jpg" width="300px" height="470px"/>
 </p>
 
 <p align="center">
